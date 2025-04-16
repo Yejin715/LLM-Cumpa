@@ -9,4 +9,3 @@
    - --eval: evaluate chatbot response (need two dialogues from both Intent-Cumpa and LLM-Cumpa)
    - --recog: almost same as mantest, but it ends up the conversation when the phase changes
    - no option: executing FastAPI server
-Commit Test
